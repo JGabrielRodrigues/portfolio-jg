@@ -19,7 +19,7 @@ export default function About() {
       company: "Banco Pan / BTG Pactual - Aprendiz",
       period: "07/2024 - 10/2025",
       description: "Aqui foi onde tive minha primeira oportunidade para trabalhar com tecnologia, neste período atuei em duas equipes, uma que trabalhava como Platform Engineering onde consegui capacitar mais minha habilidades em back e front-end, e o outro time trabalhava com arquitetura técnica e de solução, onde desenvolvi muito minhas Hard Skills.",
-      skills: ["Angular", "Node.js", "AWS", "Micro-serviços", "Docker, Podman", "Kubernetes", "TypeScript", "Java",  ]
+      skills: ["Angular", "Node.js", "AWS", "Micro-serviços", "Docker", "Kubernetes", "TypeScript", "Java",  ]
     },
 
   ];

@@ -1,5 +1,10 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import {
+  FaLinkedin,
+  FaGithub,
+  FaEnvelope,
+  FaFileDownload,
+} from "react-icons/fa";
 
 export default function Contact() {
   return (
@@ -12,6 +17,18 @@ export default function Contact() {
           </h3>
 
           <div className="space-y-6">
+            <a
+              href="/Curriculo_Jose_Gabriel.docx%20(1).pdf"
+              download="Jose-Gabriel-Rodrigues-CV.pdf"
+              className="flex items-center gap-6 p-6 bg-gray-700 hover:bg-gray-600 rounded-xl transition-all duration-200 group hover:scale-[1.02] border border-gray-600"
+            >
+              <FaFileDownload className="text-green-400 group-hover:text-green-500 transition-colors" size={32} />
+              <div>
+                <p className="font-semibold text-white text-lg">Baixar currículo</p>
+                <p className="text-gray-300">Faça o download do meu CV em PDF</p>
+              </div>
+            </a>
+
             <a
               href="https://www.linkedin.com/in/jgabriel-rodrigues/"
               target="_blank"

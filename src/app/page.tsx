@@ -7,7 +7,7 @@ export default function About() {
     {
 
       title: "serviços gerais",
-      company: "Bar e Restaurante Santana",
+      company: "JJSM Bar e Mercearia",
       period: "2018 - 2024",
       description: "Empresa familiar onde atuei em várias áreas, onde desenvolvi muitas Soft-Skills principalmente a comunicação que foi muito importante para meu crescimento profissional e pessoal pois lidava diretamente com o público e era um pouco timido.",
       skills: ["Atendimento ao cliente", "Trabalho em equipe", "Gestão de tempo"]
@@ -18,7 +18,7 @@ export default function About() {
       title: "Desenvolvedor Full Stack e Arquiteto de Soluções",
       company: "Banco Pan / BTG Pactual - Aprendiz",
       period: "07/2024 - 10/2025",
-      description: "Aqui foi onde tive minha primeira oportunidade para trabalhar com tecnologia, neste período atuei em duas equipes, uma que trabalhava como Platform Engineering onde consegui capacitar mais minha habilidades em back e front-end, e o outro time trabalhava com arquitetura técnica e de solução, onde desenvolvi muito minhas Hard Skills.",
+      description: "Aqui foi onde tive minha primeira oportunidade para trabalhar com tecnologia, neste período atuei em duas equipes, uma que trabalhava como Platform Engineering onde consegui capacitar mais minha habilidades em back-end e front-end, e o outro time trabalhava com arquitetura de Software e solução, onde desenvolvi mais habilidaes.",
       skills: ["Angular", "Node.js", "AWS", "Micro-serviços", "Docker", "Kubernetes", "TypeScript", "Java",  ]
     },
 
@@ -40,7 +40,7 @@ export default function About() {
     {
       icon: "📚",
       phase: "Aprendizado",
-      description: "Adoro aprender coisas novas, seja por meio de cursos, livros ou tutoriais online. Estou sempre buscando expandir meus conhecimentos."
+      description: "Adoro aprender coisas novas, seja por meio de cursos, livros e videos, sobre assuntos que despertam meu interesse. Estou sempre buscando expandir meus conhecimentos."
   
     },
     {
@@ -100,11 +100,13 @@ export default function About() {
 
             <p>
               Tenho um olhar curioso sobre o futuro e acredito que pensar diferente,
-              colaborar e nunca parar de aprender são as chaves pra continuar evoluindo nesse mundo que muda o tempo todo.
+              colaborar e nunca parar de aprender são as chaves pra continuar evoluindo 
+              nesse mundo que muda o tempo todo.
             </p>
 
             <p>
-              Fora do mundo da tecnologia, sou apaixonado por música, futebol, videogames, xadrez e momentos em família a acredito que boas conexões humanas são tão importantes quanto qualquer avanço.
+              Fora do mundo da tecnologia, sou apaixonado por música, futebol,
+               videogames, xadrez e momentos em família a acredito que boas conexões humanas são tão importantes quanto qualquer avanço.
             </p>
 
             <p>

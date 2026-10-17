@@ -36,6 +36,13 @@ export default function Projects() {
       gitUrl: "https://www.linkedin.com/company/apadrinhe-me/?viewAsMember=true",
       icon: <FaLinkedin />, 
     },
+    {
+      name: "Destrava +",
+      description:
+        "ajudamos jovens a transformar seus objetivos profissionais em planos concretos, desenvolvendo habilidades e dando os primeiros passos para construir o futuro que desejam.",
+      gitUrl: "https://github.com/NaonTheGhost/projeto-integrador-destrava ",
+      icon: <FaGithub />, 
+    },
   ];
 
   return (
